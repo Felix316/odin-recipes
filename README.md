@@ -1,1 +1,2 @@
 # odin-recipes
+This website is a collection of 3 recipes that will be used as practice for working with git. It should have a homepage that links you to three different recipes that when clicked on send you to another page with a pic of the dish along with instructions and  ingridients. 
